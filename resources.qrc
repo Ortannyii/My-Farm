@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/main_bg.png</file>
+        <file>resources/popup_bg.png</file>
+        <file>resources/rain_scene.png</file>
+        <file>resources/trophy.png</file>
+        <file>resources/btn_rain.png</file>
+        <file>resources/btn_pray.png</file>
+        <file>resources/btn_wheat.png</file>
+        <file>resources/btn_rice.png</file>
+        <file>resources/btn_water.png</file>
+        <file>resources/btn_fertilize.png</file>
+        <file>resources/btn_remove.png</file>
+        <file>resources/btn_sell.png</file>
+        <file>resources/crop_wheat.png</file>
+        <file>resources/crop_rice.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>resources/bgm.wav</file>
+        <file>resources/rain.wav</file>
+        <file>resources/money.wav</file>
+    </qresource>
+</RCC>
