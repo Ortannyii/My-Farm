@@ -14,6 +14,7 @@
         <file>resources/btn_sell.png</file>
         <file>resources/crop_wheat.png</file>
         <file>resources/crop_rice.png</file>
+        <file>resources/icon.png</file>
     </qresource>
     <qresource prefix="/audio">
         <file>resources/bgm.wav</file>
